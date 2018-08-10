@@ -6,6 +6,7 @@
 #include <cstdint>
 #include <cstring>
 
+#include <opencv2/opencv.hpp>
 #include <opencv/cv.h>
 #include <opencv/highgui.h>
 

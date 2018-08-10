@@ -5,6 +5,7 @@
 
 #include <memory>
 
+#include <opencv2/opencv.hpp>
 #include "InstanceSegmentationResult.h"
 #include "SegmentationProvider.h"
 

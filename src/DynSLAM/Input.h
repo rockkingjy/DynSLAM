@@ -6,6 +6,7 @@
 #include <highgui.h>
 #include <memory>
 
+#include <opencv2/opencv.hpp>
 #include "DepthProvider.h"
 #include "Utils.h"
 #include "../InfiniTAM/InfiniTAM/ITMLib/Objects/ITMRGBDCalib.h"
